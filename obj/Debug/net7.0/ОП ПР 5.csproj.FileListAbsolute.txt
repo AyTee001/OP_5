@@ -1,0 +1,15 @@
+C:\Work\ОП ПР 5\bin\Debug\net7.0\ОП ПР 5.exe
+C:\Work\ОП ПР 5\bin\Debug\net7.0\ОП ПР 5.deps.json
+C:\Work\ОП ПР 5\bin\Debug\net7.0\ОП ПР 5.runtimeconfig.json
+C:\Work\ОП ПР 5\bin\Debug\net7.0\ОП ПР 5.dll
+C:\Work\ОП ПР 5\bin\Debug\net7.0\ОП ПР 5.pdb
+C:\Work\ОП ПР 5\obj\Debug\net7.0\ОП ПР 5.csproj.AssemblyReference.cache
+C:\Work\ОП ПР 5\obj\Debug\net7.0\ОП ПР 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\ОП ПР 5\obj\Debug\net7.0\ОП ПР 5.AssemblyInfoInputs.cache
+C:\Work\ОП ПР 5\obj\Debug\net7.0\ОП ПР 5.AssemblyInfo.cs
+C:\Work\ОП ПР 5\obj\Debug\net7.0\ОП ПР 5.csproj.CoreCompileInputs.cache
+C:\Work\ОП ПР 5\obj\Debug\net7.0\ОП ПР 5.dll
+C:\Work\ОП ПР 5\obj\Debug\net7.0\refint\ОП ПР 5.dll
+C:\Work\ОП ПР 5\obj\Debug\net7.0\ОП ПР 5.pdb
+C:\Work\ОП ПР 5\obj\Debug\net7.0\ОП ПР 5.genruntimeconfig.cache
+C:\Work\ОП ПР 5\obj\Debug\net7.0\ref\ОП ПР 5.dll
